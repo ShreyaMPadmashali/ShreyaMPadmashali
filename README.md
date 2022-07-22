@@ -2,8 +2,8 @@
 - 🌱 I’m currently studying Computer Science Engineering in St. Joseph Engineering College, Mangaluru.
 - 👀 I’m interested in Front-end web development.
 - 📫 Find me on web:
-         LinkedIn Profile:<a href="https://www.linkedin.com/in/shreya-m-padmashali-751a08190">LinkedIn<a>
-         Twitter Profile:<a href="https://twitter.com/Shreya_M_P">Twitter</a>
+- -LinkedIn Profile:<a href="https://www.linkedin.com/in/shreya-m-padmashali-751a08190">LinkedIn<a>
+- -Twitter Profile:<a href="https://twitter.com/Shreya_M_P">Twitter</a>
 
 
 <!---
