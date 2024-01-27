@@ -1,7 +1,7 @@
 # Hi, I’m Shreya M Padmashali
 
-- 🌱 Computer Science graduate 
-- 👀 I’m interested in Front-end web development.
+- 🌱 Recent graduate in Computer Science, passionate about leveraging technology to solve real-world challenges and create innovative solutions. Excited about the endless possibilities in the world of coding and software development.
+
 
 # Find me around the web:
 
