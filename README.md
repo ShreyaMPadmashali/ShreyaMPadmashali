@@ -1,6 +1,6 @@
 # Hi, I’m Shreya M Padmashali
 
-- 🌱 I’m currently studying Computer Science Engineering in St. Joseph Engineering College, Mangaluru.
+- 🌱 Computer Science graduate 
 - 👀 I’m interested in Front-end web development.
 
 # Find me around the web:
