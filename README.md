@@ -8,6 +8,7 @@
 - LinkedIn Profile:<a href="https://www.linkedin.com/in/shreya-m-padmashali-751a08190">LinkedIn<a>
 - Twitter Profile:<a href="https://twitter.com/Shreya_M_P">Twitter</a>
 - Hackerrank Profile:<a href="https://www.hackerrank.com/shreyampadmasha1">Hackerrank</a>
+- Kaggle Profile:<a href="https://www.kaggle.com/shreyampadmashali">Kaggle</a>
 
 
 <!---
