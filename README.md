@@ -9,7 +9,7 @@
 - Twitter Profile:<a href="https://twitter.com/Shreya_M_P">Twitter</a>
 - Hackerrank Profile:<a href="https://www.hackerrank.com/shreyampadmasha1">Hackerrank</a>
 - Kaggle Profile:<a href="https://www.kaggle.com/shreyampadmashali">Kaggle</a>
-
+- Data Science:<a href="https://www.datascienceportfol.io/Shreya_M_Padmashali">Datascience portfolio</a>
 
 <!---
 ShreyaMPadmashali/ShreyaMPadmashali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
